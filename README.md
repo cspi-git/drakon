@@ -13,7 +13,7 @@ python index.py
 ```
 
 ## Credits
-Huge thanks to Altorx for this.
+Huge thanks to [Altorx](https://github.com/iUseYahoo) for this.
 
 ## License
 MIT © CSPI
