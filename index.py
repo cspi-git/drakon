@@ -45,7 +45,7 @@ try:
             if href.startswith("/url?q="):
                 url = re.findall(r'/url\?q=(.*?)&', href)[0]
                 
-                if "google.com" in url:
+                if "google.com" in url or "/search" in url:
                     continue
 
                 links.append(url)
